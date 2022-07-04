@@ -19,7 +19,7 @@ We have carefully organized our codes under [`scripts`](scripts).
 
 Our models can be trained as follows:
 ```bash
-cd scripts/<environment>/ && bash train_<algo>_<replay_buffer_choice>.sh
+python -W ignore -m src.main --exp_name <name> --algo <algo> --replay_buffer_sampler <replay_buffer_choice> --env <env_name> --train --seed $1 --snapshot_dir $2
 ```
 
 # Paper Citation
