@@ -15,8 +15,6 @@ pip install -r requirements.txt
 
 ### Training & Testing
 
-We have carefully organized our codes under [`scripts`](scripts).
-
 Our models can be trained as follows:
 ```bash
 python -W ignore -m src.main --exp_name <name> --algo <algo> --replay_buffer_sampler <replay_buffer_choice> --env <env_name> --train --seed $1 --snapshot_dir $2
