@@ -165,7 +165,7 @@ tensorboard-plugin-wit==1.8.0
 tensorboardX==2.4.1
 tensorflow==2.7.2
 tensorflow-estimator==2.7.0
-tensorflow-gpu==1.15.5
+tensorflow-gpu==2.7.2
 tensorflow-io-gcs-filesystem==0.22.0
 tensorflow-probability==0.15.0
 termcolor==1.1.0
