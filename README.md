@@ -8,8 +8,8 @@ pip install --upgrade virtualenv
 ```
 Create a virtual environment, activate it and install the requirements in [`requirements.txt`](requirements.txt).
 ```bash
-virtualenv venv
-source venv/bin/activate
+virtualenv env
+source env/bin/activate
 pip install -r requirements.txt
 ```
 
