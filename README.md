@@ -22,7 +22,7 @@ python -W ignore -m src.main --exp_name <name> --algo <algo> --replay_buffer_sam
 
 # Paper Citation
 
-If you find our codes useful, do consider citing our paper:
+If you find our codes useful, do consider citing our [paper](https://arxiv.org/abs/2206.03171):
 ```
 @article{kumar2022look,
   title={Look Back When Surprised: Stabilizing Reverse Experience Replay for Neural Approximation},
