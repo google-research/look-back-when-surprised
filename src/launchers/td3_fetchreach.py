@@ -1,4 +1,12 @@
+# Copyright 2022 Google LLC
+# Copyright (c) 2019 Reinforcement Learning Working Group
+
+# Use of this source code is governed by an MIT-style
+# license that can be found in the LICENSE file or at
+# https://opensource.org/licenses/MIT.
+
 #!/usr/bin/env python3
+
 """An example to train TD3 algorithm on InvertedDoublePendulum PyTorch."""
 import torch
 from torch.nn import functional as F

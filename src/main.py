@@ -1,3 +1,10 @@
+# Copyright 2022 Google LLC
+# Copyright (c) 2019 Reinforcement Learning Working Group
+
+# Use of this source code is governed by an MIT-style
+# license that can be found in the LICENSE file or at
+# https://opensource.org/licenses/MIT.
+
 from pyvirtualdisplay import Display
 import wandb
 import argparse
