@@ -34,7 +34,7 @@ If you find our codes useful, do consider citing our paper:
 
 # References
 
-Our repository makes use of various open-source codes. Most of which have been documented at Garage If you find the respective codes useful, do cite their respective papers as well:
+Our repository makes use of various open-source codes. Most of which have been documented at Garage. If you find the respective codes useful, do cite their respective papers as well:
 
 ```
 @misc{garage,
