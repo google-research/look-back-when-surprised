@@ -1,0 +1,51 @@
+# Look Back When Surprised: RER++
+
+### Getting started
+
+To avoid any conflict with your existing Python setup, it is suggested to work in a virtual environment with [`virtualenv`](https://docs.python-guide.org/dev/virtualenvs/). To install `virtualenv`:
+```bash
+pip install --upgrade virtualenv
+```
+Create a virtual environment, activate it and install the requirements in [`requirements.txt`](requirements.txt).
+```bash
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Training & Testing
+
+We have carefully organized our codes under [`scripts`](scripts).
+
+Our models can be trained as follows:
+```bash
+cd scripts/<environment>/ && bash train_<algo>_<replay_buffer_choice>.sh
+```
+
+# Paper Citation
+
+If you find our codes useful, do consider citing our paper:
+```
+@article{kumar2022look,
+  title={Look Back When Surprised: Stabilizing Reverse Experience Replay for Neural Approximation},
+  author={Kumar, Ramnath and Nagaraj, Dheeraj},
+  journal={arXiv preprint arXiv:2206.03171},
+  year={2022}
+}
+```
+
+# References
+
+Our repository makes use of various open-source codes. Most of which have been documented at Garage If you find the respective codes useful, do cite their respective papers as well:
+
+```
+@misc{garage,
+ author = {The garage contributors},
+ title = {Garage: A toolkit for reproducible reinforcement learning research},
+ year = {2019},
+ publisher = {GitHub},
+ journal = {GitHub repository},
+ howpublished = {\url{https://github.com/rlworkgroup/garage}},
+ commit = {be070842071f736eb24f28e4b902a9f144f5c97b}
+}
+```
