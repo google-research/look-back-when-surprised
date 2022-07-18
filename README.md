@@ -1,5 +1,8 @@
 # Look Back When Surprised: RER++
 
+
+This repository serves to open-source the code used in the paper: "[Look Back When Surprised: Stabilizing Reverse Experience Replay for Neural Approximation](https://arxiv.org/abs/2206.03171)".This is not an officially supported Google product.
+
 ### Getting started
 
 To avoid any conflict with your existing Python setup, it is suggested to work in a virtual environment with [`virtualenv`](https://docs.python-guide.org/dev/virtualenvs/). To install `virtualenv`:
