@@ -1,7 +1,7 @@
 # Look Back When Surprised: RER++
 
 
-This repository serves to open-source the code used in the paper: "[Look Back When Surprised: Stabilizing Reverse Experience Replay for Neural Approximation](https://arxiv.org/abs/2206.03171)". **This is not an officially supported Google product.**
+This repository serves to open-source the code used in the paper: "[Look Back When Surprised: Stabilizing Reverse Experience Replay for Neural Approximation](https://arxiv.org/abs/2206.03171)".
 
 ### Getting started
 
@@ -50,3 +50,7 @@ Our repository makes use of various open-source codes. Most of which have been d
  commit = {be070842071f736eb24f28e4b902a9f144f5c97b}
 }
 ```
+
+# Disclaimer
+
+**This is not an officially supported Google product.**
