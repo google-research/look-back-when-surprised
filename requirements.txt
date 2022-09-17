@@ -96,7 +96,7 @@ nest-asyncio==1.5.4
 networkx==2.6.3
 notebook==6.4.12
 numpy==1.22.0
-oauthlib==3.1.1
+oauthlib==3.2.1
 opencv-python==4.5.5.64
 opt-einsum==3.3.0
 orion==0.2.1
