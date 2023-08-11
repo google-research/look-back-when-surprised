@@ -40,7 +40,7 @@ future==0.18.2
 garage==2021.3.0
 gast==0.4.0
 gitdb==4.0.9
-GitPython==3.1.24
+GitPython==3.1.32
 glfw==2.4.0
 google-auth==2.3.3
 google-auth-oauthlib==0.4.6
