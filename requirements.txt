@@ -11,7 +11,7 @@ backcall==0.2.0
 box2d-py==2.3.5
 cached-property==1.5.2
 cachetools==4.2.4
-certifi==2021.10.8
+certifi==2023.7.22
 cffi==1.15.0
 charset-normalizer==2.0.12
 click==8.1.2
