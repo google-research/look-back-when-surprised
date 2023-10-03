@@ -111,7 +111,7 @@ pfrl==0.3.0
 pickleshare==0.7.5
 piglet==1.0.0
 piglet-templates==1.2.0
-Pillow==9.0.1
+Pillow==10.0.1
 plotly==5.5.0
 pluggy==1.0.0
 prometheus-client==0.12.0
