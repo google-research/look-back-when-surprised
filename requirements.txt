@@ -36,7 +36,7 @@ fasteners==0.17.3
 filelock==3.4.0
 flatbuffers==2.0
 fonttools==4.28.3
-future==0.18.2
+future==1.0.0
 garage==2021.3.0
 gast==0.4.0
 gitdb==4.0.9
