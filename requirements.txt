@@ -33,7 +33,7 @@ entrypoints==0.3
 enum34==1.1.10
 falcon==3.0.1
 fasteners==0.17.3
-filelock==3.4.0
+filelock==3.20.1
 flatbuffers==2.0
 fonttools==4.28.3
 future==0.18.2
