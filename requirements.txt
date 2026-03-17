@@ -121,7 +121,7 @@ protobuf==3.19.1
 psutil==5.8.0
 ptyprocess==0.7.0
 py==1.11.0
-pyasn1==0.4.8
+pyasn1==0.6.3
 pyasn1-modules==0.2.8
 pybullet==3.2.1
 pycparser==2.21
